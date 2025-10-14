@@ -1257,7 +1257,7 @@ $axure.internal(function($ax) {
         }
     };
 
-    var _populateBoundingRect = function (boundingRect) {
+    var _populateBoundingRect = function(boundingRect) {
         boundingRect.right = boundingRect.left + boundingRect.width;
         boundingRect.bottom = boundingRect.top + boundingRect.height;
 
