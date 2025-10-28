@@ -15095,3 +15095,33 @@
 }
 #u1217.hint.disabled {
 }
+#u1218_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:2px;
+}
+#u1218 {
+  border-width:0px;
+  position:absolute;
+  left:214px;
+  top:1809px;
+  width:200px;
+  height:1px;
+  display:flex;
+}
+#u1218 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1218_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
